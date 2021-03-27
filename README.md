@@ -1,6 +1,7 @@
-# spamcall
-Tools untuk spam telepon ke teman, pacar, musuh, atau bahkan mantan
-==================
+# Tools untuk spam telepon ke teman, pacar, musuh, atau bahkan mantan
+==============================
+# Jangan lupa baca example nya biar lu kagak salah masukin no biar kagak keliatan tolol
+==============================
 # Cara menggunakan :
 $pkg update && pkg upgrade
 
