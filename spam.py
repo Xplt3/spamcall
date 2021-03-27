@@ -11,6 +11,7 @@ banner = """
 \t======================================
 \t=  [•]Creator : xplt3                =
 \t=  [•]Telegram : t.me/Xplt3          =
+\t=  [•]Result : 0=gagal / 1=berhasil  =
 \t=  [•]Bahasa : Python                =
 \t=  [•]Example : 87*********          =
 \t=  [•]Pesan : Gunakan dengan bijak   =
