@@ -12,7 +12,6 @@ banner = """
 \t=  [•]Creator : xplt3                =
 \t=  [•]Telegram : t.me/Xplt3          =
 \t=  [•]Result : 0=gagal / 1=berhasil  =
-\t=  [•]Bahasa : Python                =
 \t=  [•]Example : 87*********          =
 \t=  [•]Pesan : Gunakan dengan bijak   =
 \t======================================
@@ -47,3 +46,5 @@ print()
 print(f"Result: {rs}")
 print()
 print(f"Message: {ms}")
+
+#Udah sampe bawah ni bro udh ijin blom kalo mau recode?
