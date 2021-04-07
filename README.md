@@ -13,4 +13,6 @@ $git clone https://github.com/Xplt3/spamcall
 
 $cd spamcall
 
+$pip install requests
+
 $python spam.py
