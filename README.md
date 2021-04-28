@@ -2,6 +2,7 @@
 ==============================
 # Jangan lupa baca example nya biar lu kagak salah masukin no biar kagak keliatan tolol
 ==============================
+<img src="https://i.postimg.cc/bvs0QSG4/images.jpg">
 # Cara menggunakan :
 $pkg update && pkg upgrade
 
